@@ -5,8 +5,8 @@
 <configuration>
 
     <typeAliases>
-        <package name="com.myProject.pojo"></package>
-        <package name="com.myProject.vo"></package>
+        <package name="com.qiuzhidi.pojo"></package>
+        <package name="com.qiuzhidi.vo"></package>
     </typeAliases>
 
 </configuration>
